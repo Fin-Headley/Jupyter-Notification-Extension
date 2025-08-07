@@ -1,5 +1,5 @@
 # Jupyter-Notification-Extension
-Custom Jupyter %magic for notifications on long-running cell completion.
+Custom Jupyter %magic for notifications on completion of long-running cell.
 
 This extension was created by Fin Headley to work with Jupyter Notebook on his personal computer.
 
